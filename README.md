@@ -1,2 +1,2 @@
-# myhellowhale
+# MyHelloWhale
 Simple Docker Demo App
